@@ -1,0 +1,1 @@
+O objetivo principal deste código é ilustrar como a concorrência pode otimizar o tempo de processamento em cenários onde há esperas simuladas (como consultas a sensores, leituras de bancos de dados e envio de relatórios), evitando o bloqueio contínuo da CPU e permitindo a sobreposição de tarefas.
